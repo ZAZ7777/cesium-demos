@@ -24,3 +24,6 @@ npm  start
 3dTiles数据太大我放在了百度网盘里面，有需要的自己可以下载
 
 链接: https://pan.baidu.com/s/1ZXcFJO9JK04HEg39fOxQfw 提取码: b3yt
+
+如需其他项目请加WX: ZAZ27777
+
